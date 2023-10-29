@@ -158,6 +158,70 @@ const sources = [
     // order: 1
   },
   {
+    id: 'feature-block-1',
+    class: '',
+    label: f1s,
+    content: f1.trim(),
+    category: 'Características',
+    // order: 1
+  },
+  {
+    id: 'feature-block-2',
+    class: '',
+    label: f2s,
+    content: f2.trim(),
+    category: 'Características',
+    // order: 1
+  },
+  {
+    id: 'feature-block-3',
+    class: '',
+    label: f3s,
+    content: f3,
+    category: 'Características',
+    // order: 1
+  },
+  {
+    id: 'feature-block-4',
+    class: '',
+    label: f4s,
+    content: f4,
+    category: 'Características',
+    // order: 1
+  },
+  {
+    id: 'feature-block-5',
+    class: '',
+    label: f5s,
+    content: f5,
+    category: 'Características',
+    // order: 1
+  },
+  {
+    id: 'feature-block-6',
+    class: '',
+    label: f6s,
+    content: f6,
+    category: 'Características',
+    // order: 1
+  },
+  {
+    id: 'feature-block-7',
+    class: '',
+    label: f7s,
+    content: f7,
+    category: 'Características',
+    // order: 1
+  },
+  {
+    id: 'feature-block-8',
+    class: '',
+    label: f8s,
+    content: f8,
+    category: 'Características',
+    // order: 1
+  },
+  {
     id: 'blog-block-1',
     // class: 'fa fa-map-o',
     class: '',
@@ -317,70 +381,6 @@ const sources = [
     label: e3s,
     content: e3,
     category: 'Commerce',
-    // order: 1
-  },
-  {
-    id: 'feature-block-1',
-    class: '',
-    label: f1s,
-    content: f1,
-    category: 'Features',
-    // order: 1
-  },
-  {
-    id: 'feature-block-2',
-    class: '',
-    label: f2s,
-    content: f2,
-    category: 'Features',
-    // order: 1
-  },
-  {
-    id: 'feature-block-3',
-    class: '',
-    label: f3s,
-    content: f3,
-    category: 'Features',
-    // order: 1
-  },
-  {
-    id: 'feature-block-4',
-    class: '',
-    label: f4s,
-    content: f4,
-    category: 'Features',
-    // order: 1
-  },
-  {
-    id: 'feature-block-5',
-    class: '',
-    label: f5s,
-    content: f5,
-    category: 'Features',
-    // order: 1
-  },
-  {
-    id: 'feature-block-6',
-    class: '',
-    label: f6s,
-    content: f6,
-    category: 'Features',
-    // order: 1
-  },
-  {
-    id: 'feature-block-7',
-    class: '',
-    label: f7s,
-    content: f7,
-    category: 'Features',
-    // order: 1
-  },
-  {
-    id: 'feature-block-8',
-    class: '',
-    label: f8s,
-    content: f8,
-    category: 'Features',
     // order: 1
   },
   {
